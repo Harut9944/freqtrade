@@ -17,7 +17,7 @@ import talib.abstract as ta  # noqa
 import freqtrade.vendor.qtpylib.indicators as qtpylib
 
 
-class BBRSIHyperopt(IHyperOpt):
+class BBRSIHyperoptMain(IHyperOpt):
     """
     This is a Hyperopt template to get you started.
 

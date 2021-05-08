@@ -3,7 +3,15 @@
 # *.sqlite
 # logfile.txt
 # user_data/*
-user_data/data/*
+user_data/data/binance/*
+user_data/data/kraken/*
+user_data/hyperopt_results/*.pickle
+user_data/hyperopt_results/*.pkl
+user_data/logs/*
+
+user_data/hyperopt.lock
+user_data/*.sqlite
+
 # !user_data/strategy/sample_strategy.py
 # !user_data/notebooks
 # user_data/notebooks/*
